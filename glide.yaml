@@ -1,0 +1,5 @@
+package: github.com/roscopecoltran/css2xpath
+import:
+- package: github.com/moovweb/rubex
+  subpackages:
+  - bstorm
